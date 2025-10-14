@@ -1,9 +1,8 @@
 # Mini Profile Test
-The mini project for self-introduction.
+The bones of mini project for self-introduction.
 
 ## Overview
-Explain what your project does and its purpose.
-
+Made to learn how to make a simple website.
 
 ## Features
 - Key feature 1
@@ -14,7 +13,7 @@ Explain what your project does and its purpose.
 - Bootstrap / ChatGPT / 
 
 ## Screenshot
-![screenshot](images/screenshot.png)
+![screenshot](images/ss.png)
 
 ## Installation
 1. Clone this repository
