@@ -1,16 +1,18 @@
 # Mini Profile Test
-The bones of mini project for self-introduction.
+The barebones of mini project for self-introduction website.
 
 ## Overview
-Made to learn how to make a simple website.
+Made to learn how to create a simple website by using readymade functionable code such as Bootstrap.
 
 ## Features
-- Key feature 1
-- Key feature 2
+- navigation bar to go around the website
+- moving carousel for photos
+- log in 
 
 ## Technologies Used
 - HTML, CSS, JS
-- Bootstrap / ChatGPT / 
+- Bootstrap
+- ChatGPT
 
 ## Screenshot
 ![screenshot](images/ss.png)
